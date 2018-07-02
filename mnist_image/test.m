@@ -1,0 +1,1 @@
+m=readMNIST(t10k-images-idx3-ubyte\t10k-images-idx3-ubyte);
